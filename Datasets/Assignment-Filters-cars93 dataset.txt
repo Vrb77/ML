@@ -1,0 +1,5 @@
+1. Find out cars whose price is less than 20
+2. Find out cars which provide 'Driver Only' AirBags
+3. Find out cars which belong to Sporty Type and price is more than 15
+4. Find out cars which have weight more than 2500 and belong to USA Origin
+5. FInd out cars which belong to small/midsize and provides MPG.highway(mileage on highway) more than 23
